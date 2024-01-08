@@ -1,0 +1,12 @@
+{
+  "type": "goofymod:incubating",
+  "ingredients": [
+    {
+      "item": "goofymod:cursed_eye"
+    }
+  ],
+  "output": {
+    "count": 3,
+    "item": "goofymod:mammoth_spawn_egg"
+  }
+}

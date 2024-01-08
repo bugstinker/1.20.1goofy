@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_right",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "goofymod:block/platinum_door_bottom",
+    "top": "goofymod:block/platinum_door_top"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "goofymod:block/platinum_block",
+    "side": "goofymod:block/platinum_block",
+    "top": "goofymod:block/platinum_block"
+  }
+}

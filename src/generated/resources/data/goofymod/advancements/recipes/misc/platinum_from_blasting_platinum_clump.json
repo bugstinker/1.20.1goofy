@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_platinum_clump": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "goofymod:platinum_clump"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "goofymod:platinum_from_blasting_platinum_clump"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_platinum_clump",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "goofymod:platinum_from_blasting_platinum_clump"
+    ]
+  },
+  "sends_telemetry_event": false
+}

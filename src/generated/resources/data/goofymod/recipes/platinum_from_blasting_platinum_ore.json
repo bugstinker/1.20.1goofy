@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 250,
+  "experience": 1.0,
+  "group": "platinum",
+  "ingredient": {
+    "item": "goofymod:platinum_ore"
+  },
+  "result": "goofymod:platinum"
+}

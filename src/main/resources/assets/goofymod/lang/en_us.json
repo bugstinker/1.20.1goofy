@@ -1,0 +1,44 @@
+{
+  "item.goofymod.platinum": "Platinum",
+  "item.goofymod.mud": "Mud",
+  "item.goofymod.platinum_clump": "Raw Platinum",
+  "item.goofymod.strawberry": "Strawberry",
+  "item.goofymod.cursed_eye": "Cursed Eye",
+  "item.goofymod.pine_cone": "Pine Cone",
+  "item.goofymod.strawberry_seed": "Strawberry Seed",
+  "item.goofymod.cursed_eye_seed": "Cursed Eye Seed",
+  "item.goofymod.mammoth_spawn_egg": "Mammoth Spawn Egg ",
+
+  "item.goofymod.platinum_sword": "Platinum Sword",
+  "item.goofymod.platinum_pickaxe": "Platinum Pickaxe",
+  "item.goofymod.platinum_axe": "Platinum Axe",
+  "item.goofymod.platinum_shovel": "Platinum Shovel",
+  "item.goofymod.platinum_hoe": "Platinum Hoe",
+
+  "item.goofymod.platinum_helmet": "Platinum Helmet",
+  "item.goofymod.platinum_chestplate": "Platinum Chestplate",
+  "item.goofymod.platinum_leggings": "Platinum Leggings",
+  "item.goofymod.platinum_boots": "Platinum Boots",
+
+  "block.goofymod.platinum_block": "Platinum Block",
+  "block.goofymod.mud_block": "Mud Block",
+  "block.goofymod.platinum_block_clump": "Raw Platinum Block",
+  "block.goofymod.platinum_ore": "Platinum Ore",
+  "block.goofymod.deepslate_platinum_ore": "Deepslate Platinum Ore",
+
+  "block.goofymod.incubator": "incubator",
+
+  "block.goofymod.platinum_stairs": "Platinum Stairs",
+  "block.goofymod.platinum_slab": "Platinum Slab",
+  "block.goofymod.platinum_button": "Platinum Button",
+  "block.goofymod.platinum_pressure_plate": "Platinum Pressure Plate",
+  "block.goofymod.platinum_fence": "Platinum Fence",
+  "block.goofymod.platinum_fence_gate": "Platinum Fence Gate",
+  "block.goofymod.platinum_wall": "Platinum Wall",
+  "block.goofymod.platinum_door": "Platinum Door",
+  "block.goofymod.platinum_trapdoor": "Platinum Trapdoor",
+
+  "item.goofymod.platinum_tank": "Platinum Tank",
+
+  "creativetab.goofy_tab": "Goofy Mod"
+}

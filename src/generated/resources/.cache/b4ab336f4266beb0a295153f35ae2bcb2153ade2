@@ -1,0 +1,6 @@
+// 1.20.1	2023-11-05T11:35:34.2921177	Tags for minecraft:block mod id goofymod
+4ec23de1c5973cf79d4742fce9dcada0f666cbd2 data/minecraft/tags/blocks/fences.json
+294ae93a86e5f9408a816211c98e76a6502455ae data/minecraft/tags/blocks/fence_gates.json
+6a14372ba0fe6aa02c6a47ca6241c9e0d4d12855 data/minecraft/tags/blocks/mineable/pickaxe.json
+02991ceb3f3765a412b6032da82ba0c813a048f8 data/minecraft/tags/blocks/needs_iron_tool.json
+6a39101a242f87a2404dc1447e508d87190c10d5 data/minecraft/tags/blocks/walls.json

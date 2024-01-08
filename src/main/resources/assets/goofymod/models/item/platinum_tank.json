@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base":{
+    "parent": "goofymod:item/platinum_tank_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "goofymod:item/platinum_tank_2d"
+    },
+    "ground": {
+      "parent": "goofymod:item/platinum_tank_2d"
+    },
+    "fixed": {
+      "parent": "goofymod:item/platinum_tank_2d"
+    }
+  }
+}

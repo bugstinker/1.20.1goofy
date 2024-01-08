@@ -1,0 +1,34 @@
+[07Jan.2024 06:54:07.831] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\aadik\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.1.3, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, goofymod, --all, --output, C:\Users\aadik\Downloads\forge-1.20.1-47.1.46-mdk\src\generated\resources, --existing, C:\Users\aadik\Downloads\forge-1.20.1-47.1.46-mdk\src\main\resources]
+[07Jan.2024 06:54:07.840] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8.1 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[07Jan.2024 06:54:08.087] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[07Jan.2024 06:54:08.200] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/aadik/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[07Jan.2024 06:54:08.765] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\aadik\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.1.3\9775dc3f284cdb3e0d33b372c328c6ef88e434b0\javafmllanguage-1.20.1-47.1.3.jar is missing mods.toml file
+[07Jan.2024 06:54:08.770] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\aadik\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.1.3\d785f4087ec3be094fd5aed801f5366ca958a81b\lowcodelanguage-1.20.1-47.1.3.jar is missing mods.toml file
+[07Jan.2024 06:54:08.775] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\aadik\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.1.3\be60c45f3578cdf944a669c6ea16fd91bec50f2e\mclanguage-1.20.1-47.1.3.jar is missing mods.toml file
+[07Jan.2024 06:54:08.779] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\aadik\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.1.3\1aadc0201d8e97b107d9978c7fe066bb54bbb9dc\fmlcore-1.20.1-47.1.3.jar is missing mods.toml file
+[07Jan.2024 06:54:09.045] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[07Jan.2024 06:54:11.417] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07Jan.2024 06:54:11.421] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\aadik\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, goofymod, --all, --output, C:\Users\aadik\Downloads\forge-1.20.1-47.1.46-mdk\src\generated\resources, --existing, C:\Users\aadik\Downloads\forge-1.20.1-47.1.46-mdk\src\main\resources]
+[07Jan.2024 06:54:12.256] [main/INFO] [mixin/]: Remapping refMap geckolib.refmap.json using C:\Users\aadik\Downloads\forge-1.20.1-47.1.46-mdk\build\createSrgToMcp\output.srg
+[07Jan.2024 06:54:12.946] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [goofymod]
+[07Jan.2024 06:54:21.162] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.1.3, for MC 1.20.1 with MCP 20230612.114412
+[07Jan.2024 06:54:21.168] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.1.3 Initialized
+[07Jan.2024 06:54:21.376] [modloading-worker-0/WARN] [software.bernie.geckolib.GeckoLib/]: Minecraft.getInstance() was null, could not register reload listeners
+[07Jan.2024 06:54:22.389] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/aadik/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.1.3_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.1.3_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[07Jan.2024 06:54:22.391] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/aadik/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.1.3_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.1.3_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[07Jan.2024 06:54:22.833] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[07Jan.2024 06:54:22.964] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 128 ms
+[07Jan.2024 06:54:22.965] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[07Jan.2024 06:54:23.114] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 149 ms
+[07Jan.2024 06:54:23.114] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: goofymod
+[07Jan.2024 06:54:23.502] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: goofymod finished after 387 ms
+[07Jan.2024 06:54:23.503] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: goofymod
+[07Jan.2024 06:54:23.587] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: goofymod finished after 83 ms
+[07Jan.2024 06:54:23.587] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id goofymod
+[07Jan.2024 06:54:23.607] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id goofymod finished after 19 ms
+[07Jan.2024 06:54:23.607] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id goofymod
+[07Jan.2024 06:54:23.609] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id goofymod finished after 2 ms
+[07Jan.2024 06:54:23.609] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : goofymod
+[07Jan.2024 06:54:23.617] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : goofymod finished after 7 ms
+[07Jan.2024 06:54:23.618] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 784 ms
+[07Jan.2024 06:54:23.639] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 175, old count: 175, new count: 176, removed stale: 0, written: 0

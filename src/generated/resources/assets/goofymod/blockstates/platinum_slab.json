@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "goofymod:block/platinum_slab"
+    },
+    "type=double": {
+      "model": "goofymod:block/platinum_block"
+    },
+    "type=top": {
+      "model": "goofymod:block/platinum_slab_top"
+    }
+  }
+}
